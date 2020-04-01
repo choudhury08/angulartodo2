@@ -1,0 +1,7 @@
+.main {
+  width: 500px;
+  text-align: left;
+  margin: auto;
+  border: 2px solid;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}

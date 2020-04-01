@@ -1,0 +1,8 @@
+body {
+  min-height: 100vh;
+}
+body {
+  font-family: open sans-serif;
+  font-weight: 300;
+  background: linear-gradient(#f857a6, #ff5858);
+}
